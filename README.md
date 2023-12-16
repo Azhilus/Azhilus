@@ -26,7 +26,7 @@
 
 ### Current Projects
 
-- 🚀 Repository: [16bitmcu](https://github.com/azhilus/16bitmcu)
+- 🚀 IOT/Electronics Projects: [16bitmcu](https://github.com/azhilus/16bitmcu)
 
 ### GitHub Stats
 
