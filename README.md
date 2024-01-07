@@ -32,6 +32,7 @@
 
 <p align='left'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=azhilus&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Shivansh's Github Stats">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=azhilus&theme=burnt-neon&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </p>
 
 ### Top Languages
@@ -39,6 +40,8 @@
 <p align='left'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azhilus&show_icons=true&hide_border=true&theme=radical">
 </p>
+
+
 
 <div align="center">
   <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of my repositories!</h3>
