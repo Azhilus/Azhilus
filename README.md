@@ -27,6 +27,7 @@
 ### Current Projects
 
 - 🚀 IOT/Electronics Projects: [16bitmcu](https://github.com/azhilus/16bitmcu)
+- 📱 Flutter Projects: [Learning Flutter](https://github.com/Azhilus/Learning-Flutter)
 
 ### GitHub Stats
 
