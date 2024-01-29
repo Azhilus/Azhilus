@@ -9,7 +9,7 @@
 
 <br>
 
-<img align="right" height="350px" alt="GIF" src="https://i.redd.it/1d11s820dgm91.gif" />
+<img align="right" height="320px" alt="GIF" src="https://i.redd.it/1d11s820dgm91.gif" />
 
 ### I am an ECE undergrad
 
